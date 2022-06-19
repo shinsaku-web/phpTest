@@ -1,0 +1,4 @@
+{
+    "phpcs.standard": "PSR2",
+    "phpcs.executablePath": "./app/vendor/bin/phpcs"
+}
